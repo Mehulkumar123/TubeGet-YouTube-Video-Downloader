@@ -22,4 +22,4 @@ TubeGet is a simple graphical user interface (GUI) program that allows you to do
 | Tkinter | [https://docs.python.org/3/library/tkinter.html] |
 | ttkthemes | [https://ttkthemes.readthedocs.io/en/latest/] |
 | pytube | [https://github.com/pytube/pytube] |
-| Original Porject | [https://www.youtube.com/watch?v=dQw4w9WgXcQ] |
+| Original Code | [https://www.youtube.com/watch?v=dQw4w9WgXcQ] |
